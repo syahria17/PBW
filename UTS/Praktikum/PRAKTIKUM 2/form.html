@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Praktikum Pembuatan Form</title>
+  </head>
+  <body>
+    <form>
+      <label for="username">Username:</label>
+      <input
+        type="text"
+        name="username"
+        id="username"
+        required
+        minlength="5"
+        maxlength="20"
+      />
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="email" required />
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" min="18" max="60" />
+      <label for="komentar">Komentar:</label>
+      <textarea
+        name="komentar"
+        id="komentar"
+        rows="4"
+        cols="50"
+        placeholder="Masukkan komentar Anda"
+      ></textarea>
+
+      <label><input type="checkbox" name="hobi" value="musik" /> Musik</label>
+      <label
+        ><input type="checkbox" name="hobi" value="olahraga" /> Olahraga</label
+      >
+      <label
+        ><input type="checkbox" name="hobi" value="membaca" /> Membaca</label
+      >
+      <label for="pilihan">Pilihan:</label>
+      <select name="pilihan" id="pilihan">
+        <option value="1">Pilihan 1</option>
+        <option value="2">Pilihan 2</option>
+      </select>
+      <label for="file">Pilih File:</label>
+      <input type="file" id="file" name="file" />
+      <button type="submit">Kirim</button>
+    </form>
+  </body>
+</html>

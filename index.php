@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UTS Pemrograman Berorientasi web </title>
+  <title>Pemrograman Berorientasi web </title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   <style>
     * {
@@ -76,69 +75,108 @@
   </style>
 </head>
 <body>
-  <a href=""><h1> Selamat Datang di Dashboard File PBW </h1></a>
-   <p style="text-align:center; margin-bottom: 30px;">Nama: Syahria Trianita | NPM: 2310631170053</p>
-
-  <div class="grid">
+   <div class="grid">
     
     <div class="card">
       <h2>TUGAS 1</h2>
       <ul class="links">
         <li><a href="Tugas/TUGAS 1/fotoCV.png">fotoCV.png</a></li>
-<li><a href="Tugas/TUGAS 1/tugas1.html">tugas1.html</a></li>
+<li><a href="Tugas/TUGAS_1/tugas1.php">tugas1.html</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>TUGAS 2</h2>
       <ul class="links">
-        <li><a href="Tugas/TUGAS 2/tugas2.html">tugas2.html</a></li>
+        <li><a href="Tugas/TUGAS_2/tugas2.php">tugas2.php</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>TUGAS 3</h2>
       <ul class="links">
-        <li><a href="Tugas/TUGAS 3/style.css">style.css</a></li>
-<li><a href="Tugas/TUGAS 3/tugas3.html">tugas3.html</a></li>
+        <li><a href="Tugas/TUGAS_3/style.css">style.css</a></li>
+<li><a href="Tugas/TUGAS 3/tugas3.php">tugas3.php</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>TUGAS 4</h2>
       <ul class="links">
-        <li><a href="Tugas/TUGAS 4/script.js">script.js</a></li>
+        <li><a href="Tugas/TUGAS_4/script.js">script.js</a></li>
 <li><a href="Tugas/TUGAS 4/style.css">style.css</a></li>
-<li><a href="Tugas/TUGAS 4/tugas4.html">tugas4.html</a></li>
+<li><a href="Tugas/TUGAS 4/tugas4.php">tugas4.html</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>TUGAS 5</h2>
+      <ul class="links">
+        <li><a href="Tugas/TUGAS_5/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>TUGAS 6</h2>
+      <ul class="links">
+        <li><a href="Tugas/TUGAS_6/menu.php">menu.php</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>TUGAS 7</h2>
+      <ul class="links">
+        <li><a href="Tugas/TUGAS_7/latihan_nilai.php">menu.php</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>PRAKTIKUM 1</h2>
       <ul class="links">
-        <li><a href="Praktikum/PRAKTIKUM 1/introduce.html">introduce.html</a></li>
+        <li><a href="Praktikum/PRAKTIKUM_1/introduce.php">introduce</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>PRAKTIKUM 2</h2>
       <ul class="links">
-        <li><a href="Praktikum/PRAKTIKUM 2/form.html">form.html</a></li>
+        <li><a href="Praktikum/PRAKTIKUM_2/form.php">form.html</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>PRAKTIKUM 3</h2>
       <ul class="links">
-        <li><a href="Praktikum/PRAKTIKUM 3/style.css">style.css</a></li>
-<li><a href="Praktikum/PRAKTIKUM 3/webSingaperbangsa.html">webSingaperbangsa.html</a></li>
+        <li><a href="Praktikum/PRAKTIKUM_3/style.css">style.css</a></li>
+<li><a href="Praktikum/PRAKTIKUM 3/webSingaperbangsa.php">webSingaperbangsa.html</a></li>
       </ul>
     </div>
     
     <div class="card">
       <h2>PRAKTIKUM 4</h2>
       <ul class="links">
-        <li><a href="Praktikum/PRAKTIKUM 4/kalkulator.html">kalkulator.html</a></li>
+        <li><a href="Praktikum/PRAKTIKUM_4/kalkulator.php">kalkulator.html</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>PRAKTIKUM 5</h2>
+      <ul class="links">
+        <li><a href="Praktikum/PRAKTIKUM_5/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>PRAKTIKUM 6</h2>
+      <ul class="links">
+        <li><a href="Praktikum/PRAKTIKUM_6/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>PRAKTIKUM 7</h2>
+      <ul class="links">
+        <li><a href="Praktikum/PRAKTIKUM_7/latihan_nilai.php">latihan_nilai.php</a></li>
       </ul>
     </div>
     
